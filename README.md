@@ -6,3 +6,8 @@ Build a chatbot with chatGPT 3.5 prompts
 ![Logo](https://cdn.iplocation.net/assets/images/blog/featured/open-ai.jpg)
   
 </div>
+
+## Technologies used
+- OpenAI API
+- Python
+- Jupyter Notebook
