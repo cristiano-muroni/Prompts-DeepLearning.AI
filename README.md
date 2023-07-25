@@ -27,6 +27,10 @@ _To run jupyter notebook on your machine, create a folder and inside the folder 
 ```
 jupyter notebook
 ```
+- OpenAI API
+```
+  pip install openai
+```
 ## Running the code on your machine
 - Faça o dowload dos arquivos que estão aqui neste [Github](https://github.com/cristiano-muroni/Prompts-DeepLearning.AI)
 ![image](https://github.com/cristiano-muroni/Prompts-DeepLearning.AI/assets/53710097/72453a9a-84be-4860-badf-7d319e97ec01)
